@@ -1,0 +1,17 @@
+7.31) Learn redux component provider, dispatch, useSelector
+
+8.6) action creater > action > dispatch > middleware > redux > store   >   component
+							       useSelector
+
+8.7) use redux-toolkit
+	coding => connect comment form, comment list and comment box
+
+8.13) start week6_miniproject make repository
+
+8.14) use redux-toolkit
+	coding => connect comment form, comment list and comment box
+	design => week6_miniproject detail page
+
+8.27) study login page
+8.28) login page clone coding
+
