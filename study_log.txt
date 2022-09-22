@@ -18,3 +18,4 @@
 9.09) use calendar library
 9.12) study modal, potal
 9.21) study throttle
+9.22) study throttle
