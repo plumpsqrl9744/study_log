@@ -23,3 +23,5 @@
 9.27) work final project main page css
 9.28) work final project login page css
 9.29) work final project login page css
+10.11) 기술 면접 질문 작성 및 정리
+10.12) 기술 면접 질문 작성 및 정리
