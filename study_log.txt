@@ -25,3 +25,4 @@
 9.29) work final project login page css
 10.11) 기술 면접 질문 작성 및 정리
 10.12) 기술 면접 질문 작성 및 정리
+10.22) Frigo 프로젝트 리팩토링
